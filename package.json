@@ -1,0 +1,21 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "first server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domedriver/first-server-max.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Domedriver/first-server-max/issues"
+  },
+  "homepage": "https://github.com/Domedriver/first-server-max#readme"
+}
