@@ -1,7 +1,7 @@
 {
   "name": "first-server",
   "version": "1.0.0",
-  "description": "first server",
+  "description": "first server built in nodejs-complete-guide course",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/Domedriver/first-server-max.git"
   },
-  "author": "",
+  "author": "Matt",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Domedriver/first-server-max/issues"
