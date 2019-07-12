@@ -39,6 +39,7 @@ module.exports = requestHandler;
 
 
 // Other ways to do exports
+// See if this works
 // module.exports.handler = requestHandler
 /*
 module.exports = {
