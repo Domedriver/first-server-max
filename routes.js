@@ -10,7 +10,7 @@ const requestHandler = (req, res) => {
       '<link rel="stylesheet" href="/var/tools/public/base.css"></head>'
     );
     res.write(
-      '<body><form action="/message" method="POST"><input type="text" name="message"><button type="submit">Send</button></body>'
+      '<body><h1>Enter some text that I will immediately delete</h1><form action="/message" method="POST"><input type="text" name="message"><button type="submit">Send</button></body>'
     );
     res.write("</html>");
     res.end();
